@@ -23,7 +23,7 @@ import pandas as pd
 import streamlit as st
 """
 # Load the dataset
-file_path = 'song_dataset.csv'
+file_path = 'https://github.com/andercodder/APAI-TASK-3/blob/cdbe037e3973979fdbb00e7689bdb7c7b189de9f/song_dataset.csv'
 data = pd.read_csv(file_path)
 
 """# Task 1: Exploratory Data Analysis
