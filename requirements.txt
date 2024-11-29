@@ -1,0 +1,6 @@
+pandas
+ipywidgets
+matplotlib
+seaborn
+scikit-surprise
+streamlit
