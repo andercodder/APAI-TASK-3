@@ -23,7 +23,7 @@ import pandas as pd
 import streamlit as st
 """
 # Load the dataset
-file_path = '/content/song_dataset.csv'
+file_path = 'song_dataset.csv'
 data = pd.read_csv(file_path)
 
 """# Task 1: Exploratory Data Analysis
