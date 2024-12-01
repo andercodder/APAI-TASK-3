@@ -1,8 +1,9 @@
+python==3.9.*
+Cython
 numpy
 pandas
 ipywidgets
 matplotlib
 seaborn
-scikit-surprise
+scikit-surprise==1.1.1
 streamlit
-
